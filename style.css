@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.mid{
+	width: 300px;
+	margin: auto;
+}
+.mid h2{
+	text-align: center;
+	font-size: 20px;
+}
+span{
+	color: #3498db;
+}
+.mid img{
+width: 300px;
+height: 200px;
+}
+.mid a{
+	display: block;
+	margin: auto;
+	width: 200px;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: none;
+	background: #ecf0f1;
+	text-align: center;
+	color: #2c3e50;
+}
